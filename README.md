@@ -1,0 +1,2 @@
+# Analysis-of-Vehicle-Attributes-and-Performance-by-Model-Year
+This data set contains information on various attributes and performance measures of vehicles from different origins and model years. The attributes include mpg, cylinders, displacement, horsepower, weight, and acceleration. The data set can be used to explore the relationships between these attributes and how they vary by origin and model year.
